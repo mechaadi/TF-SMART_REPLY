@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:E.\examples\lite\examples\smart_reply\android\app\libs\smartreply_runtime_aar.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/598af4633713dd211957040e735026ca/smartreply_runtime_aar/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/598af4633713dd211957040e735026ca/smartreply_runtime_aar/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

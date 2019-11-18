@@ -1,0 +1,4 @@
+#Mon Nov 18 14:14:22 IST 2019
+base.0=E\:\\examples\\lite\\examples\\smart_reply\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
